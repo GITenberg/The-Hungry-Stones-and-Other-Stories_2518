@@ -1,5 +1,8 @@
 _repo: The-Hungry-Stones-and-Other-Stories_2518
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -12,6 +15,8 @@ description: 'Indhold: The hungry stones ; The victory ; Once there was a king ;
   home-coming ; My Lord, the baby ; The kingdom of cards ; The devotee ; Vision ;
   The Babus of Nayanjore ; Living or dead? ; "We crown thee king" ; The renunciation
   ; The Cabuliwallah'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2518#The-Hungry-Stones-and-Other-Stories
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
 identifiers:
